@@ -1,0 +1,21 @@
+.row{
+    justify-content: center;
+}
+#tablero{
+    width: 100px;
+    height: 100px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+}
+.fillbtnB{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+}
+.fillbtnW{
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    color: black;
+}
